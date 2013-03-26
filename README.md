@@ -3,7 +3,7 @@ CodeIgniter Navigation Helper
 
 Thi sis a small helper to create dynamic navigation menus in codeigniter. 
 
-The idea is to easily have a way to show a menu with the current section highlighted.
+The idea is to easily have a way to show a simple list or paragraph menu with the current section highlighted.
 
 How to use it
 -------------
