@@ -1,7 +1,7 @@
 CodeIgniter Navigation Helper
 =============================
 
-Thi sis a small helper to create dynamic navigation menus in codeigniter. 
+This is a small helper to create dynamic navigation menus in codeigniter. 
 
 The idea is to easily have a way to show a simple list or paragraph menu with the current section highlighted.
 

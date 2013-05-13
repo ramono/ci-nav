@@ -1,13 +1,15 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
 /**
- * Navigation Helper
- * Created by: Ramon Lapenta
- * Usage: 
- * Save this file into application/helpers folder
- * Create nav.php file on config folder with array containing menu
- * Autoload nav config file, url and nav helper
- * Call menu_ul('selected_item') on controller or template
- */
+* Codeigniter Navigation Helper
+*
+* This is a small helper to create dynamic navigation menus in codeigniter. 
+*
+* @author Ramon Lapenta <me@ramonlapenta.com>
+* @copyright Public Domain
+* @license http://ramonlapenta.com/license.txt
+*
+*/
 
 $config['nav'] = array(
     'home' => array(

@@ -1,5 +1,16 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
+/**
+* Codeigniter Navigation Helper
+*
+* This is a small helper to create dynamic navigation menus in codeigniter. 
+*
+* @author Ramon Lapenta <me@ramonlapenta.com>
+* @copyright Public Domain
+* @license http://ramonlapenta.com/license.txt
+*
+*/
+
 
 // menu()  ------------------------------------------------------------------------
 
